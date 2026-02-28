@@ -1,2 +1,2 @@
-contador = 0
+contador = 5
 print('Contador:', contador)
